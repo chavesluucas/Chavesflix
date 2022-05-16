@@ -1,0 +1,35 @@
+header{
+    background-color: var(--color-primary);
+    height: 60px;
+    display: flex;
+    align-items: center;
+
+}
+
+.lcmovies-nav-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #FFF;
+}
+
+.lcmovies-nav-content h1{
+    margin: 0;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.lcmovies-contact-container{
+    display: flex;
+    align-items: center;
+}
+
+.lcmovies-contact-link{
+    margin: 0 0 0 10px;
+    font-size: 12px;
+    color: #FFF;
+}
+
+.lcmovies-link{ 
+    text-decoration: none;
+}
