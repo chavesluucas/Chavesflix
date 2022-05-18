@@ -8,7 +8,7 @@ export function Navbar() {
         <header>
             <nav className='container'>
                 <div className='lcmovies-nav-content'>
-                    <h1>LC Movies</h1>
+                    <h1>Chavesflix</h1>
                     <a href="https://github.com/chavesluucas" className='lcmovies-link'>
                         <div className='lcmovies-contact-container'>
                             <GithubIcon />
